@@ -2,4 +2,4 @@
 
 Name: AJ
 
-Email:aj
+Email:aj@gmail.com
